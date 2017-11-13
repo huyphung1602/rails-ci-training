@@ -6,4 +6,4 @@ deployment:
   production:
     branch: master
     heroku:
-      appname: tiny-training-ci
+      appname: rails-ci-training-huyphung
